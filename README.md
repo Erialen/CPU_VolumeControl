@@ -11,7 +11,6 @@
 - 窗口和弹窗居中显示
 
 ## 截图
-*（如果你愿意，可以把你之前拍的照片放到文件夹里，然后在这里插入！）*
 <!-- ![界面截图](screenshot.png) -->
 <img width="400" height="320" alt="屏幕截图 2026-09-20 221532" src="https://github.com/user-attachments/assets/3baea7fb-1c03-4a9d-ab95-28dea3bb2cd7" />
 
